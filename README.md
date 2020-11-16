@@ -1,4 +1,4 @@
-# CECS323Lab
+# DatabaseFundementals
 
 A collection of my work from my database fundamentals course. The main tools used are ApacheDerby and MySQL. Important topics covered include:
 1. UML: classes, attributes, associations, 
